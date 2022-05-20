@@ -1,7 +1,6 @@
-Entregas_g12
+### Diploma in Data Science and Machine Learning
+## Introduction to Machine Learning Assignments (in spanish)
 
-Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones
+Lab 1: Regression experiments with the Boston house prices dataset. Visualizations, training and evaluation of different types of regressions, looking for the configurations that give the best results.
 
-Introduccion al aprendizaje Automatico
-
-Edición 2021
+Lab 2: Classification task, model selection, hyperparameter tuning and evaluation.
